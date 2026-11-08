@@ -1,0 +1,7 @@
+AI Usage Disclosure — Bonus Assignment #2
+
+OpenAI Codex assisted with assignment interpretation, source-code implementation, interface design, mathematical explanations, documentation, and automated validation checks.
+
+The operating tool performs FEM calculations through implemented stiffness equations, coordinate transformations, matrix assembly, boundary-condition partitioning, Gaussian elimination with partial pivoting, back substitution, and reaction recovery. Educational explanations use programmed templates populated with the current model's values.
+
+The finished application does not call an AI chatbot, LLM, external AI service, or any other external service. All calculations and explanations run locally and deterministically in the browser.

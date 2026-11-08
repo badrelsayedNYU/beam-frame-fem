@@ -1,0 +1,18 @@
+PASS Textbook portal displacements match supplied rounded reference
+PASS Portal support reactions and global equilibrium
+PASS 3D combined cantilever agrees with six closed-form responses
+PASS 3D bent frame equilibrium and matrix symmetry
+PASS Arbitrary oriented 3D member: energy and rigid-motion invariance
+PASS Prescribed nonzero displacement adjusts RHS and reactions
+PASS Rigid prescribed translation generates zero member force
+PASS Pure axial and pure torsion do not couple to other local DOFs
+PASS Hermite deformation interpolates both nodes
+PASS Cantilever Hermite midpoint matches exact point-load deflection
+PASS Multiple members and noncontiguous IDs assemble correctly
+PASS Unrestrained rigid body is rejected
+PASS Disconnected node is rejected
+PASS Zero length, missing endpoint, duplicate ID, negative property rejected
+PASS Reproducible results
+15 mathematical validation groups passed.
+
+Browser verification: seven solution stages, assembly selectors, elimination navigation, 3D torsion contribution, example switching, load editing, fixed/free support presets, singularity error and recovery, reaction explanation, and guide modal checked in the in-app browser.
