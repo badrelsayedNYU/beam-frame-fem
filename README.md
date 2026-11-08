@@ -4,6 +4,10 @@ An interactive web tool that walks through the direct stiffness method for **2D 
 
 This follows the browser-based format of the earlier [Truss FEM Stepper](https://github.com/badrelsayedNYU/truss-fem), with beam bending, nodal rotations, and 3D torsion added.
 
+**Live tool:** https://badrelsayednyu.github.io/beam-frame-fem/
+
+**User guide:** [Three-page PDF](User-Guide.pdf)
+
 ## What it shows
 
 | Stage | Content |
